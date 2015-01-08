@@ -1,0 +1,4 @@
+t = input()
+
+for x in xrange(t):
+  
